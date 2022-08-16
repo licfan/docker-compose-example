@@ -1,0 +1,1 @@
+docker build -t centos-cmake -f ./Dockerfile.build .
